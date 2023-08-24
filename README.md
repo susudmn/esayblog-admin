@@ -2,6 +2,12 @@
 
 EasyBlog是一个可以生成静态页面的团队博客，可以创建博客和专题文章。博客可以生成静态页面，可以在线导出所有静态页面，也可以提交到github pagse,gitee pages。 EasyBlog可以自己平时写博客，还可以邀请志同道合的同学、朋友、同事一起来维护的一个博客。
 
+# 使用说明
+### 下载源码后，在终端输入：
+```
+npm install
+```
+
 ## 效果展示
 
 ![image](https://github.com/susudmn/esayblog-admin/assets/125255256/53e5023a-a4e6-47f8-a562-6ab853df2ac6)
