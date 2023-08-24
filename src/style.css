@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+* {
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+a.a-link {
+  color: #1890ff;
+}
+
+.not-allow {
+  cursor: not-allowed;
+  color: #ddd;
+}

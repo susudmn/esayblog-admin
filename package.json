@@ -1,0 +1,29 @@
+{
+  "name": "esayblog-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^2.3.16",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.8",
+    "highlight.js": "^11.8.0",
+    "js-md5": "^0.7.3",
+    "path": "^0.12.7",
+    "sass": "^1.64.0",
+    "sass-loader": "^13.3.2",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.0"
+  }
+}

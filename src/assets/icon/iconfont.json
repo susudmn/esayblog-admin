@@ -1,0 +1,72 @@
+{
+  "id": "4172808",
+  "name": "easyblog-admin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16429109",
+      "name": "后台管理-栏目管理",
+      "font_class": "blog",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "15657526",
+      "name": "专题",
+      "font_class": "special_subject",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "35830517",
+      "name": "回收站",
+      "font_class": "recycle_bin",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11348890",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "36565945",
+      "name": "下箭头-copy",
+      "font_class": "open",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "16287378",
+      "name": "下箭头",
+      "font_class": "close",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "3851393",
+      "name": "账号",
+      "font_class": "icon_account",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "7903663",
+      "name": "密码",
+      "font_class": "password",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "15550775",
+      "name": "set-up-dot",
+      "font_class": "set_up_dot",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
